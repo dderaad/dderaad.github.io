@@ -1,6 +1,6 @@
 remote_theme: pages-themes/midnight@v0.2.0
-title: Dino's homepage
-description: Check out what I'm working on! :)
+title: Dino de Raad
+description: Check out what I'm working on!
 
 plugins:
 - jekyll-remote-theme

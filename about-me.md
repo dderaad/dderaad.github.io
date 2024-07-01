@@ -11,4 +11,4 @@ I am interested in using mathematics, statistics, and computer science to help p
 Check out some of my projects:
 
 ## Mandelbrot Zoom
-[![The-kiddos](20230217_004900.jpg){:class="img-responsive"}](https://mandelbrot.onrender.com/)
+[![mandelbrot](mandelbrot_thumbnail.png){:class="img-responsive"}](https://mandelbrot.onrender.com/)

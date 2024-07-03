@@ -8,7 +8,7 @@ I am interested in using mathematics, statistics, and computer science to help p
 
 ![The-kiddos](20230217_004900.jpg){:class="img-responsive"}
 
-Check out some of my projects:
+Check out some of my projects: (Click on image to launch a project)
 
 ## Mandelbrot Zoom
 [![mandelbrot](mandelbrot_thumbnail_2.png){:class="img-responsive"}](https://mandelbrot.onrender.com/)

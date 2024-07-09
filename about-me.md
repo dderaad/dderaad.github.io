@@ -12,3 +12,6 @@ Check out some of my projects: (Click on image to launch a project)
 
 ## Mandelbrot Zoom
 [![mandelbrot](mandelbrot_thumbnail_3.png){:class="img-responsive"}](https://mandelbrot.onrender.com/)
+
+## Photo Gallery
+[![gallery](amber_wu_thesis_1.png){:class="img-responsive"}](https://dderaad.github.io/photo-gallery)
